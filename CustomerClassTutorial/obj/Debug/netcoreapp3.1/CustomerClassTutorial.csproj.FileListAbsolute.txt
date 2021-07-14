@@ -1,0 +1,13 @@
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\bin\Debug\netcoreapp3.1\CustomerClassTutorial.exe
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\bin\Debug\netcoreapp3.1\CustomerClassTutorial.deps.json
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\bin\Debug\netcoreapp3.1\CustomerClassTutorial.runtimeconfig.json
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\bin\Debug\netcoreapp3.1\CustomerClassTutorial.runtimeconfig.dev.json
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\bin\Debug\netcoreapp3.1\CustomerClassTutorial.dll
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\bin\Debug\netcoreapp3.1\CustomerClassTutorial.pdb
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\obj\Debug\netcoreapp3.1\CustomerClassTutorial.csprojAssemblyReference.cache
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\obj\Debug\netcoreapp3.1\CustomerClassTutorial.AssemblyInfoInputs.cache
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\obj\Debug\netcoreapp3.1\CustomerClassTutorial.AssemblyInfo.cs
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\obj\Debug\netcoreapp3.1\CustomerClassTutorial.csproj.CoreCompileInputs.cache
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\obj\Debug\netcoreapp3.1\CustomerClassTutorial.dll
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\obj\Debug\netcoreapp3.1\CustomerClassTutorial.pdb
+C:\repos\CustomerClassTutorial\CustomerClassTutorial\obj\Debug\netcoreapp3.1\CustomerClassTutorial.genruntimeconfig.cache
